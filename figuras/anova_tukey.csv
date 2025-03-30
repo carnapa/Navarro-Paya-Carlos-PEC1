@@ -1,0 +1,21 @@
+"Metabolito_ID","Nombre","Comparacion","diff","p adj"
+"192798","L-Aspartate","Baseline-Apple",-2.15542306852122,2.50587328665119e-10
+"192798","L-Aspartate","Cranberry-Apple",-2.06516034049914,7.82874653992849e-10
+"54678503","L-Formylkynurenine_1","Cranberry-Apple",2.53738197117358,1.189462734974e-07
+"54678503","L-Formylkynurenine_1","Cranberry-Baseline",2.39637426600934,4.0676625179259e-07
+"17531","2-Dimethylamino-5,6-dimethylpyrimidin-4-ol","Cranberry-Apple",1.62385135888087,7.94150430283302e-06
+"17531","2-Dimethylamino-5,6-dimethylpyrimidin-4-ol","Cranberry-Baseline",1.56743717789179,1.46982236466364e-05
+"71485","5-Nitro-ortho-anisidine_1","Cranberry-Apple",2.51687347071934,6.41071923028758e-05
+"71485","5-Nitro-ortho-anisidine_1","Cranberry-Baseline",2.9979761499904,3.28005222682837e-06
+"79034","Acanthicifoline","Baseline-Apple",0.254532964959044,7.09675566779033e-06
+"79034","Acanthicifoline","Cranberry-Apple",0.238412911436336,2.19202277410568e-05
+"3037","Kikkanol A","Cranberry-Apple",2.94666585816172,1.85901232341301e-05
+"3037","Kikkanol A","Cranberry-Baseline",3.028666424076,1.16407529386908e-05
+"5486800","Guanosine","Cranberry-Apple",-0.834376825206111,5.01475897359827e-05
+"5486800","Guanosine","Cranberry-Baseline",-0.92908313960478,8.38385787760298e-06
+"443071","2,3,6-Trihydroxypyridine","Cranberry-Apple",3.51186458681784,7.70993064985737e-05
+"443071","2,3,6-Trihydroxypyridine","Cranberry-Baseline",3.88944569981643,1.49950742471816e-05
+"5378303","3-HYDROXY-3-METHYLGLUTARATE","Cranberry-Apple",1.30796722023115,0.000299577158407449
+"5378303","3-HYDROXY-3-METHYLGLUTARATE","Cranberry-Baseline",1.66162394463284,7.28918349901519e-06
+"94214","Phendimetrazine_1","Cranberry-Apple",0.932147881681951,0.000730234558846576
+"94214","Phendimetrazine_1","Cranberry-Baseline",1.31494341094555,3.8942045627044e-06
